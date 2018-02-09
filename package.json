@@ -1,0 +1,24 @@
+{
+  "name": "ghost-storage-preprocessor",
+  "version": "0.0.0",
+  "description": "Preprocess Ghost Uploads",
+  "main": "dist/index.js",
+  "repository": "https://github.com/caseyWebb/ghost-storage-preprocessor",
+  "author": "Casey Webb <notcaseywebb@gmail.com>",
+  "license": "WTFPL",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "dependencies": {
+    "ghost-storage-base": "^0.0.1",
+    "lodash": "^4.17.5",
+    "tslib": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.102",
+    "@types/node": "^4.0.36",
+    "tslint": "^5.9.1",
+    "typescript": "^2.7.1"
+  }
+}
