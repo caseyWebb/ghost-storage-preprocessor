@@ -6,6 +6,9 @@
   "repository": "https://github.com/caseyWebb/ghost-storage-preprocessor",
   "author": "Casey Webb <notcaseywebb@gmail.com>",
   "license": "WTFPL",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "lint": "tslint -p tsconfig.json"
