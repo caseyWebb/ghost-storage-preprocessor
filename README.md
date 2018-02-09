@@ -44,3 +44,4 @@ $ cp -r ./node_modules/ghost-storage-preprocessor-imagemin ./content/adapters/st
 
 [Ghost]: https://ghost.org
 [storage adapter]: https://docs.ghost.org/docs/using-a-custom-storage-module
+[ghost-storage-preprocessor transform(s)]: https://www.npmjs.com/browse/keyword/ghost-storage-preprocessor-transform
